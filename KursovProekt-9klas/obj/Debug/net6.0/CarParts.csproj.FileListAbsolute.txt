@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\bin\Debug\net6.0\CarParts.exe
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\bin\Debug\net6.0\CarParts.deps.json
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\bin\Debug\net6.0\CarParts.runtimeconfig.json
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\bin\Debug\net6.0\CarParts.dll
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\bin\Debug\net6.0\CarParts.pdb
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.dll
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\refint\CarParts.dll
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.pdb
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\CarParts.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CarParts\KursovProekt-9klas\obj\Debug\net6.0\ref\CarParts.dll
